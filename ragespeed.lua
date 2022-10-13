@@ -1,4 +1,4 @@
-local walkspeed = 30
+local walkspeed = 100
 local speed = 1 + walkspeed*0.05
 local rocket = Instance.new("BodyPosition",game.Players.LocalPlayer.Character.Torso)
 local upvalue = 0
